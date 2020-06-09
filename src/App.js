@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import CarouselComponent from "./CarouselComponent.js";
+import CarouselComponent from "./Carousel/CarouselComponent.js";
 
 function App() {
   return (
